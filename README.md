@@ -16,4 +16,9 @@ Features are -
  - payment from customer to the merchant
 
 ## How to run this project
- -Clone this project
+ - Clone this project
+  ```[demo-transaction-api-jmeter](https://github.com/Katha-Sikdar/demo-transaction-api-jmeter)https://github.com/Katha-Sikdar/demo-transaction-api-jmeter ```
+
+## Pictorial representation of reports
+  
+![image](https://github.com/Katha-Sikdar/demo-transaction-api-jmeter/assets/82141562/09049049-9492-4f18-9d22-4c93a6ea7f2a)
